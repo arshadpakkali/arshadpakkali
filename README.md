@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arshadpakkali
 - 👀 I’m interested in JS,TS,What ever new tech is comming out on the web
-- 🌱 I’m currently learning Functional Programming with ELM
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Functional Programming with ELM , smart contracts etc
+- 💞️ I’m looking to collaborate on idk give me some ideas
 - 📫 How to reach me arshadpakkali@gmail.com
 
 <!---
